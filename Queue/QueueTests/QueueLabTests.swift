@@ -28,5 +28,20 @@ class QueueLabTests: XCTestCase {
     XCTAssertEqual(QueueLab.smallestElement(queue), -33, "smallest should be -33")
   }
   
+  func testSum() {
+    
+  }
+  
+  func testIsQueueSortedAscending() {
+    
+  }
+  
+  func testReverseQueue() {
+    
+  }
+  
+  func testAreQueuesEqual() {
+    
+  }
   
 }
